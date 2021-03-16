@@ -6,6 +6,6 @@
 
 
 ### Entregável
-##### Escreva um models, especificação e migrações para o Evento em Grupo que atenderia às necessidades da descrição acima. Em seguida, escreva o controller da API e a especificação para oferecer suporte a requests/responses JSON para gerenciar esses Eventos em Grupo. Para os fins deste exercício, ignore autenticação. Forneça sua solução como um aplicativo Rails, Node ou PHP, abra uma PR neste repositório.
+##### Escreva models, especificação e migrações para o Evento em Grupo que atenderia às necessidades da descrição acima. Em seguida, escreva o controller da API e a especificação para oferecer suporte a requests/responses JSON para gerenciar esses Eventos em Grupo. Para os fins deste exercício, ignore autenticação. Forneça sua solução como um aplicativo Rails, Node ou PHP, abra uma PR neste repositório.
 
 ##### Você deverá criar uma nova branch com o seguinte formato de nome feature/[linguagem-framework] onde linguagem e framework deverão ser substituidos pelo que você está utilizando.
