@@ -1,4 +1,4 @@
-# Teste de conhecimento
+# Desafio 02
 
 ## Evento em grupo
 
